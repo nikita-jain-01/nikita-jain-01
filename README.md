@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-<ul type="circle">
+<ul type="disc">
   <li>
     🎓 Pursuing B.Tech in Computer Science and Engineering
   </li>
