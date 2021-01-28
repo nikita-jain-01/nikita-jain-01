@@ -13,7 +13,7 @@
     😄 Pronouns: She/Her
   </li>
   <li>
-    📬 <a href="mailto:njain876085@gmail.com">njain876085@gmail.com</a>
+    📬 <a href="mailto:njain876085@gmail.com">Email</a>
   </li>
   </ul>
 <h3 align="left">Connect with me:</h3>
