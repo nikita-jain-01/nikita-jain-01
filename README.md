@@ -4,13 +4,16 @@
     🎓 Pursuing B.Tech in Computer Science and Engineering
   </li>
   <li>
-    🔭 Web Developer
+    🔭 I'm currently learning jquery
   </li>
   <li>
-    👯 I’m looking to collaborate on Web based projects
+    👯 I’m looking to collaborate in projects
   </li>
   <li>
     😄 Pronouns: She/Her
+  </li>
+  <li>
+    ⚡ Fun fact: You are in my profile
   </li>
   </ul>
 <h3 align="left">Connect with me:</h3>
