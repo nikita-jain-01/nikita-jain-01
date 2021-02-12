@@ -4,6 +4,9 @@
     🎓 Pursuing B.Tech in Computer Science and Engineering
   </li>
   <li>
+    👩‍💻 Primary Coding language Java
+  </li>
+  <li>
     🔭 I'm currently learning jquery
   </li>
   <li>
