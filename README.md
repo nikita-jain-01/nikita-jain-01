@@ -9,7 +9,7 @@
   <li>⚡ Fun fact: You are in my profile</li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me around the web 🌍:</h3>
 <p align="left">
 <a href="https://twitter.com/nikita_jain_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nikita_jain_01" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nikita-jain-9b58b41b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nikita-jain-9b58b41b3/" height="30" width="40" /></a>
