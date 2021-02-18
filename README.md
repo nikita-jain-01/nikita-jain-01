@@ -27,8 +27,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikita-jain-01&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=nikita-jain-01&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikita-jain-01&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikita-jain-01&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="center">
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
