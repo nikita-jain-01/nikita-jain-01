@@ -3,7 +3,7 @@
 <ul type="disc">
   <li>🎓 Pursuing B.Tech in Computer Science and Engineering</li>
   <li>👩‍💻 Primary Coding language Java</li>
-  <li>🔭 I'm currently learning jquery</li>
+  <li>🔭 I'm currently learning Bootstrap</li>
   <li>👯 I’m looking to collaborate in projects</li>
   <li>😄 Pronouns: She/Her</li>
   <li>⚡ Fun fact: You are in my profile</li>
