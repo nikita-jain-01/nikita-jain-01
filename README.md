@@ -6,7 +6,7 @@
   <li>🔭 I'm currently learning Bootstrap</li>
   <li>👯 I’m looking to collaborate in projects</li>
   <li>😄 Pronouns: She/Her</li>
-  <li>⚡ Fun fact: You are in my profile</li>
+  <li>⚡ Fun fact: I want to learn everything😂</li>
 </ul>
 
 <h3 align="left">Find me around the web 🌍:</h3>
