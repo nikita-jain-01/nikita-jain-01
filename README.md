@@ -25,8 +25,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://theproductguy.files.wordpress.com/2009/10/jquerylogo256.jpg" alt="jquery" width="40" height="40"/></p>
+ 
 <h1 align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nikita-jain-01&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikita-jain-01&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> </h1>
 
