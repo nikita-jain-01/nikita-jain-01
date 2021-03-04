@@ -28,6 +28,7 @@
 <img src="https://theproductguy.files.wordpress.com/2009/10/jquerylogo256.jpg" alt="jquery" width="40" height="40"/></p>
  
 <h1 align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nikita-jain-01&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-jain-01&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikita-jain-01&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> </h1>
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
