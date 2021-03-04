@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://theproductguy.files.wordpress.com/2009/10/jquerylogo256.jpg" alt="Jquery" width="40" height="40"/>
-<img src="https://www.macobserver.com/wp-content/uploads/2019/05/workfeatured-GitHub-2.png" alt="GitHub" width="40" height="40"/></p>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/></p>
 
 <br>
 <p align="center">
