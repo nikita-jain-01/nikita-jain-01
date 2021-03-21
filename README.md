@@ -10,9 +10,15 @@
 
 <h3 align="left">Find me around the web 🌍:</h3>
 <p align="left">
-<a href="https://twitter.com/nikita_jain_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nikita_jain_01" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nikita-jain-9b58b41b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nikita-jain-9b58b41b3/" height="30" width="40" /></a>
-<a href="https://instagram.com/nikita_jain_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nikita_jain_01" height="30" width="40" /></a></p>
+<a href="https://twitter.com/nikita_jain_01">
+<img align="center" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-featured.png" alt="twitter" height="30" width="40" /></a>
+  
+<a href="https://www.linkedin.com/in/nikita-jain-9b58b41b3/">
+<img align="center" src="https://static.jopwell.com/organizationevent/fKM12af7a73b43884bf316ee670f94a30/LinkedIn-Logo.png" alt="linkedin" height="30" width="30" /></a>
+  
+<a href="https://instagram.com/nikita_jain_01">
+<img align="center" 
+src="https://lh3.googleusercontent.com/proxy/ugVSChsqxwAW0Ur9oDCNspk-2HecJ-46ixnFpqgcq-QYZg-ZfDRPEBSnsKlnAfbRqXbAGbYYwVIUHX6kibWyjSLYMxTLfX2y6vfE_LeMMDQWixjhSWoR5o6CAeNdWOTkRYd-F8ZtV27ZFT0G8bM-J5swwAwgagNEes3f5Urh-6YxuN8LDYq7vSjO03aGUnnOEWXJ9tdH_l571v0hBNyXFK8TXQKTICM_VNOFXmez2hrn_iVzCkOH4OrTDm7r9_0cu__2KjJu" alt="instagram" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
