@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikita-jain-01&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikita-jain-01&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p> -->
 <ul type="disc">
   <li>🎓 Pursuing B.Tech in Computer Science and Engineering</li>
   <li>👩‍💻 Primary Coding language Java</li>
   <li>🔭 I'm currently learning Web technology</li>
-  <li>👯 I’m looking to collaborate in projects</li>
+  <li>👯 I’m looking to collaborate in web development projects</li>
   <li>😄 Pronouns: She/Her</li>
 </ul>
 
