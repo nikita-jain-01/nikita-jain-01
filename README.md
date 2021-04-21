@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-<img align="left" alt="Visual Studio Code" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<!-- <img align="left" alt="Visual Studio Code" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -30,14 +30,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
+<!-- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/> -->
 <img src="https://theproductguy.files.wordpress.com/2009/10/jquerylogo256.jpg" alt="Jquery" width="40" height="40"/></p>
 
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-jain-01&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-stats.vercel.app/api?username=nikita-jain-01&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikita-jain-01&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikita-jain-01&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-jain-01&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
