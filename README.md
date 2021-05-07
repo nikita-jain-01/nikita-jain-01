@@ -17,8 +17,9 @@
 <a href="https://www.linkedin.com/in/nikita-jain-9b58b41b3/">
 <img align="center" src="https://static.jopwell.com/organizationevent/fKM12af7a73b43884bf316ee670f94a30/LinkedIn-Logo.png" alt="linkedin" height="30" width="30" /></a>
   
-<a href="https://instagram.com/nikita_jain_01">
+<!-- <a href="https://instagram.com/nikita_jain_01">
 <img align="center" src="https://parentzone.org.uk/sites/default/files/Instagram%20logo.jpg" alt="instagram" height="40" width="40" /></a></p>
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
