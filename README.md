@@ -4,8 +4,8 @@
   <li>🎓 Pursuing B.Tech in Computer Science and Engineering</li>
   <li>👩‍💻 Primary Coding language Java</li>
   <li>🔭 I'm currently learning Web technology</li>
-  <li>👯 I’m looking to collaborate in projects of Java and Web technology</li>
-  <!-- <li>👯 I’m looking to collaborate in projects</li> -->
+  <!--<li>👯 I’m looking to collaborate in projects of Java and Web technology</li>-->
+  <li>👯 I’m looking to collaborate in projects</li>
   <li>😄 Pronouns: She/Her</li>
 </ul>
 <h3 align="left">Find me around the web 🌍:</h3>
