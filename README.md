@@ -3,7 +3,7 @@
 <ul type="disc">
   <li>🎓 Pursuing B.Tech in Computer Science and Engineering</li>
   <li>👩‍💻 Primary Coding language Java</li>
-  <li>🔭 I'm currently Data Structure and Algorithm</li>
+  <!--<li>🔭 I'm currently Data Structure and Algorithm</li>-->
   <!--<li>👯 I’m looking to collaborate in projects</li>-->
   <li>👯 I’m looking to collaborate in projects related to Java and Web technology</li>
   <li>😄 Pronouns: She/Her</li>
