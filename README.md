@@ -3,9 +3,8 @@
 <ul type="disc">
   <li>🎓 B.E. in Computer Science and Engineering</li>
   <li>👩‍💻 Primary Coding language Java</li>
-  <!--<li>🔭 Primary Framework Spring</li>
-  <li>👯 I’m looking to collaborate in projects</li>
-  <li>👯 I’m looking to collaborate in projects related to Java and Restful API's</li>-->
+  <li>🔭 Primary Framework Spring</li>
+  <li>👯 I’m looking to collaborate in projects related to Java and Restful API's</li>
   <li>😄 Pronouns: She/Her</li>
 </ul>
 <h3 align="left">Find me around the web 🌍:</h3>
