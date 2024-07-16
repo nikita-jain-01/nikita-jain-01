@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikita-jain-01&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p> -->
 <ul type="disc">
-  <li>🎓 Pursuing B.Tech in Computer Science and Engineering</li>
+  <li>🎓 B.E. in Computer Science and Engineering</li>
   <li>👩‍💻 Primary Coding language Java</li>
-  <!--<li>🔭 I'm currently Data Structure and Algorithm</li>
+  <!--<li>🔭 Primary Framework Spring</li>
   <li>👯 I’m looking to collaborate in projects</li>
-  <li>👯 I’m looking to collaborate in projects related to Java and Web technology</li>-->
+  <li>👯 I’m looking to collaborate in projects related to Java and Restful API's</li>-->
   <li>😄 Pronouns: She/Her</li>
 </ul>
 <h3 align="left">Find me around the web 🌍:</h3>
