@@ -5,7 +5,7 @@
   <li>👩‍💻 Working as an Associate Software Engineer in a Product-Based Company with 1 year of experience</li>
   <li>🚀 Primary language: Java</li>
   <li>🔭 Primary framework: Spring</li>
-  <li>🤝 Open to collaborating on projects related to Java and RESTful APIs</li>
+  <li>🤝 Open to collaborating in projects related to Java, RESTful APIs or Microservices </li>
   <li>😄 Pronouns: She/Her</li>
 </ul>
 
