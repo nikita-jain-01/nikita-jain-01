@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 
+
 <ul>
   <li>🎓 Bachelor’s in Computer Science and Engineering</li>
   <li>👩‍💻 Working as an Associate Software Engineer in a Product-Based Company with 1 year of experience</li>
