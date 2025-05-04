@@ -16,7 +16,7 @@
     <img src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-featured.png" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/nikita-jain-9b58b41b3/" target="_blank">
-    <img src="https://static.jopwell.com/organizationevent/fKM12af7a73b43884bf316ee670f94a30/LinkedIn-Logo.png" alt="LinkedIn" height="30" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
 
